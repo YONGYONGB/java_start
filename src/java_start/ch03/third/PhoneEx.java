@@ -8,6 +8,8 @@ public class PhoneEx {
 		SmartPhone s = new SmartPhone();
 		
 		s.sing();
+		
+	
 	}
 
 }
